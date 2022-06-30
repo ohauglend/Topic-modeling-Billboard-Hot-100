@@ -7,7 +7,7 @@ for each defined topic with the aid of Songfacts data, before showing a word clo
 display pyLDAvis in order to comment on the closeness of the identified topics.
 
 **t-sne plot of the identified groups for both lyrics and user generated content**
-<img align="center" img width="500" height="600" alt="image" src="https://user-images.githubusercontent.com/64472833/176750167-e09f1a65-0529-4adf-8add-eb2b76ab22f8.png">
+<img align="center" img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/64472833/176750167-e09f1a65-0529-4adf-8add-eb2b76ab22f8.png">
 
 The main trait of this tool is its ability to neatly present high-dimensional data
 in two- or three-dimensional space. The method lying behind that is a state-of-art non-linear
@@ -24,9 +24,9 @@ These 3.172 labels will aid us in interpreting the different topic allocations p
 LDA model. Tables 2 and 3 display the most informative labels assigned by Songfacts per topic
 cluster defined by the model, alongside the topic title we assigned:
 
-<img align="center", img width="350", height="400", alt="image" src="https://user-images.githubusercontent.com/64472833/176750954-beae0e3d-8f21-44da-b5c9-ae6e6028c318.png">
+<img align="center" img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/64472833/176750954-beae0e3d-8f21-44da-b5c9-ae6e6028c318.png">
 
-<<img align="center", img width="500", height="600", alt="image" src="https://user-images.githubusercontent.com/64472833/176750994-e6f6c07f-f12e-4fc5-8ecb-21e228f8a4b0.png">
+<<img align="center" img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/64472833/176750994-e6f6c07f-f12e-4fc5-8ecb-21e228f8a4b0.png">
 
 Analyzing the table above, we can see that the label with the most tags was Topic 1. We
 found it to contain songs that mainly revolved around romantic relationships, under a negative
@@ -46,7 +46,7 @@ assigned labels should therefore be interpreted as what some songs found in thes
 about, not what the whole cluster is about. Nevertheless, it provides some useful insights as to
 what the topics try to convey.
 
-<img align="center", img width="500", height="600", alt="image" src="https://user-images.githubusercontent.com/64472833/176751151-73e2fe4b-59e1-4b57-8af3-7608c21fd503.png">
+<img align="center" img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/64472833/176751151-73e2fe4b-59e1-4b57-8af3-7608c21fd503.png">
 
 To further substantiate the classification of the topics we provide a distribution of the most
 frequent words in each group. The word cloud allows for appealing visualizing and was therefore
@@ -60,7 +60,7 @@ taking into account the high frequency of words such as "Rock", "Sign" and "Youn
 Proposed in Sievert and Shirley (2014), the LDAvis is a R and Python built-in interface that
 allow researchers to understand topic-term relationships in LDA models. Figure 8 displays our
 model through the LDAvis visualisation.
-<img align="center", img width="300", height="400", alt="image" src="https://user-images.githubusercontent.com/64472833/176751290-42be361e-5938-437f-a6b3-dcfd64245997.png">
+<img align="center" img width="400" height="400" alt="image" src="https://user-images.githubusercontent.com/64472833/176751290-42be361e-5938-437f-a6b3-dcfd64245997.png">
 
 The size of each circle is proportional to the marginal distribution of the respective topic
 on the corpus. We can also visualize the inter-topic distances and validate the assumptions we
