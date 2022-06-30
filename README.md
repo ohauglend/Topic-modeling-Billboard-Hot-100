@@ -7,7 +7,7 @@ for each defined topic with the aid of Songfacts data, before showing a word clo
 display pyLDAvis in order to comment on the closeness of the identified topics.
 
 **t-sne plot of the identified groups for both lyrics and user generated content**
-<img align="center", img width="500", height="600", alt="image" src="https://user-images.githubusercontent.com/64472833/176750167-e09f1a65-0529-4adf-8add-eb2b76ab22f8.png">
+<img align="center" img width="500" height="600" alt="image" src="https://user-images.githubusercontent.com/64472833/176750167-e09f1a65-0529-4adf-8add-eb2b76ab22f8.png">
 
 The main trait of this tool is its ability to neatly present high-dimensional data
 in two- or three-dimensional space. The method lying behind that is a state-of-art non-linear
